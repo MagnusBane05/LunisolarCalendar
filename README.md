@@ -1,4 +1,4 @@
-# LunisolarCalendar
+# Lunisolar Calendar
 A calculator that prints a calendar year for an example lunisolar calendar.\
 The calendar assumes that the sun and moon cycles begin in sync at the beginning of the first year.\
 Each year is 1 rotation of the earth around the sun, rounded to the nearest day, starting on the shortest day of the year.\
